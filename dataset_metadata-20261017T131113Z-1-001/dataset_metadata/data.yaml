@@ -1,0 +1,11 @@
+path: /content/dawn_yolo
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: Person
+  1: Bicycle
+  2: Car
+  3: Motorcycle
+  4: Bus
+  5: Truck

@@ -1,0 +1,12 @@
+Category,Result
+Selected model,YOLOv8s
+Selection criterion,Highest overall test mAP50-95
+Test Precision,0.8728
+Test Recall,0.5843
+Test F1,0.7000
+Test mAP50,0.6927
+Test mAP50-95,0.4253
+Strongest class,Car
+Weakest class,Bicycle
+Best observed weather,Snow
+Hardest observed weather,Fog

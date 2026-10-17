@@ -1,0 +1,11 @@
+Image,Ground Truth Objects,Predicted Objects,TP,FP,FN,Image_F1
+haze-124.jpg,2,0,0,0,2,0.0
+rain_storm-614.jpg,1,1,0,1,1,0.0
+haze-013.jpg,9,3,2,1,7,0.3333333333333333
+haze-104.jpg,1,5,1,4,0,0.3333333333333333
+haze-068.jpg,6,4,2,2,4,0.4
+mist-115.jpg,3,2,1,1,2,0.4
+rain_storm-811.jpg,2,3,1,2,1,0.4
+sand_storm_g2_-071.jpg,6,3,2,1,4,0.4444444444444444
+snow_storm-001.jpg,8,5,3,2,5,0.4615384615384615
+snow_storm-017.jpg,16,13,7,6,9,0.4827586206896552
